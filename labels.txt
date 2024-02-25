@@ -1,0 +1,3 @@
+0 khongkhautrang
+1 cokhautrang
+2 khongnguoi
